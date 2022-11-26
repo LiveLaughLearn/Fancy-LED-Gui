@@ -1,0 +1,39 @@
+body {
+    background-color: #C3C3C3;
+    color: #000000
+}
+.dark {
+    background-color: #8f8f8f;
+}
+.light {
+    background-color: #AAAAAA;
+}
+.selected {
+    background-color: #a3ff98;
+}
+.animationGrid td {
+    width: 15px;
+    height: 15px;
+    min-width: 15px;
+    min-height: 15px;
+}
+.pallete td {
+    width: 12px;
+    height: 12px;
+    min-width: 12px;
+    min-height: 12px;
+}
+table {
+    display: inline-block;
+}
+.selectedColour {
+    width: 110px;
+    height: 110px;
+    min-width: 110px;
+    min-height: 110px;
+    background-color: #FFFFFF;
+}
+
+.frame-wrapper {
+    display: none;
+}
